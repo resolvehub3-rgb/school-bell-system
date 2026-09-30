@@ -1,0 +1,6 @@
+{
+  "name": "School Bell System",
+  "description": "Professional real-time automated school bell and PA chime scheduling system with speaker testing, audio uploads, and precision countdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
